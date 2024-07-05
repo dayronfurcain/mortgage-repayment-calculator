@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Mortgage Repayment Calculator](https://your-solution-url.com)
-- Live Site URL: [Mortgage Repayment Calculator](https://your-live-site-url.com)
+- Solution URL: [Mortgage Repayment Calculator](https://github.com/dayronfurcain/mortgage-repayment-calculator)
+- Live Site URL: [Mortgage Repayment Calculator](https://wonderful-brioche-f72c22.netlify.app)
 
 ## My process
 
